@@ -1,0 +1,20 @@
+co/com/tcs/certification/web/userinterfaces/HomePage.java
+ co.com.tcs.certification.web.userinterfaces.HomePage
+co/com/tcs/certification/web/tasks/CartInformation.java
+ co.com.tcs.certification.web.tasks.CartInformation
+co/com/tcs/certification/web/userinterfaces/CartPage.java
+ co.com.tcs.certification.web.userinterfaces.CartPage
+co/com/tcs/certification/web/userinterfaces/CategoriesPage.java
+ co.com.tcs.certification.web.userinterfaces.CategoriesPage
+co/com/tcs/certification/web/questions/SelectInformation.java
+ co.com.tcs.certification.web.questions.SelectInformation
+co/com/tcs/certification/web/userinterfaces/ProductPage.java
+ co.com.tcs.certification.web.userinterfaces.ProductPage
+co/com/tcs/certification/web/models/Products.java
+ co.com.tcs.certification.web.models.Products
+co/com/tcs/certification/web/questions/MessageCart.java
+ co.com.tcs.certification.web.questions.MessageCart
+co/com/tcs/certification/web/tasks/SelectProducts.java
+ co.com.tcs.certification.web.tasks.SelectProducts
+co/com/tcs/certification/web/tasks/DeleteProducts.java
+ co.com.tcs.certification.web.tasks.DeleteProducts
