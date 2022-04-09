@@ -1,7 +1,7 @@
 #Author: edisson.castronunez@tcs.com
 #Languaje: EN
 
-Feature: As a user I want to select and add products to a cart for make an online purchase}
+Feature: As a user I want to select and add products to a cart for make an online purchase
 
   Background:
     Given the user is on the main page
