@@ -42,7 +42,11 @@ public class SelectProduct implements Task {
                 Enter.theValue(this.password).into(AccountPage.INPUT_PASSWORD),
                 Click.on(AccountPage.BTN_LOGIN)
                 );
-
+        try {
+            Thread.sleep(5000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
     }
 
     public static SelectProduct prod(List<ProductAndLogin> prodList){

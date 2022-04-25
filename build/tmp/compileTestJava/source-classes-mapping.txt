@@ -2,3 +2,7 @@ co/com/tcs/certification/web/runners/ValidateCartInformation.java
  co.com.tcs.certification.web.runners.ValidateCartInformation
 co/com/tcs/certification/web/stepdefinitions/ValidateCartInformationStepDefinitions.java
  co.com.tcs.certification.web.stepdefinitions.ValidateCartInformationStepDefinitions
+co/com/tcs/certification/web/stepdefinitions/ValidateCheckoutFormStepDefinitions.java
+ co.com.tcs.certification.web.stepdefinitions.ValidateCheckoutFormStepDefinitions
+co/com/tcs/certification/web/runners/ValidateCheckoutForm.java
+ co.com.tcs.certification.web.runners.ValidateCheckoutForm

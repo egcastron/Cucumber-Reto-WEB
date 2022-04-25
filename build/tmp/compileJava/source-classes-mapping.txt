@@ -18,3 +18,19 @@ co/com/tcs/certification/web/tasks/SelectProducts.java
  co.com.tcs.certification.web.tasks.SelectProducts
 co/com/tcs/certification/web/tasks/DeleteProducts.java
  co.com.tcs.certification.web.tasks.DeleteProducts
+co/com/tcs/certification/web/questions/ValidateSaveButton.java
+ co.com.tcs.certification.web.questions.ValidateSaveButton
+co/com/tcs/certification/web/userinterfaces/CheckoutPage.java
+ co.com.tcs.certification.web.userinterfaces.CheckoutPage
+co/com/tcs/certification/web/tasks/EntersInformation.java
+ co.com.tcs.certification.web.tasks.EntersInformation
+co/com/tcs/certification/web/models/PersonalInformation.java
+ co.com.tcs.certification.web.models.PersonalInformation
+co/com/tcs/certification/web/models/ProductAndLogin.java
+ co.com.tcs.certification.web.models.ProductAndLogin
+co/com/tcs/certification/web/questions/ValidatePhoneField.java
+ co.com.tcs.certification.web.questions.ValidatePhoneField
+co/com/tcs/certification/web/userinterfaces/AccountPage.java
+ co.com.tcs.certification.web.userinterfaces.AccountPage
+co/com/tcs/certification/web/tasks/SelectProduct.java
+ co.com.tcs.certification.web.tasks.SelectProduct
